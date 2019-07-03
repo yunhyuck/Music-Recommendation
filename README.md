@@ -5,6 +5,14 @@ Primary Performance Verification Using Kaggle's Data
 ## Introduction
 Using Kagle's data, complete the first implementation of the recommended system. Then, they want to recommend music through XGBoost to the users' situation.  
 
+## Execution environment
+- Window10 Home
+- CPU : Intel i5-7200U
+- Ram : 8GB
+- GPU : None
+- ANACONDA : 5.7.4
+
+
 ### songs.csv
 The songs. Note that data is in unicode.
 
