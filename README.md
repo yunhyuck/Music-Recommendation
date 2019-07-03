@@ -12,7 +12,7 @@ Using Kagle's data, complete the first implementation of the recommended system.
 - GPU : None
 - ANACONDA : 5.7.4
 
-
+## WSDM's Data
 ### songs.csv
 The songs. Note that data is in unicode.
 
