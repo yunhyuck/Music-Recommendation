@@ -53,7 +53,7 @@ The songs. Note that data is in unicode.
 <img src="https://github.com/yunhyuck/Music-Recommendation/blob/master/Picture/flow%20chart%20update.png">
 </p>
 
-## Data Schema
+## The Order Data Schema
 * __사용자 상황 정보(User_Situation)__  
 USERID , DAY , EVENT , LOCATION , WEATHER , TIME (_MUSIC_)
   
