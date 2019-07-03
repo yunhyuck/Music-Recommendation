@@ -41,3 +41,10 @@ The songs. Note that data is in unicode.
 * source_screen_name: name of the layout a user sees.
 * source_type: an entry point a user first plays music on mobile apps. An entry point could be album, online-playlist, song .. etc.
 * target: this is the target variable. target=1 means there are recurring listening event(s) triggered within a month after the user’s very first observable listening event, target=0 otherwise .
+
+## Flow Chart
+* Flow Chart
+<p align="center"> 
+<img src="https://github.com/yunhyuck/Music-Recommendation/blob/master/Picture/flow%20chart.png">
+</p>
+
