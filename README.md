@@ -59,5 +59,5 @@ FILENAME , ALBUM , ARTIST , GENRE , TITLE , YEAR , TAG
 USERID , AGE , SEX , SINGERS , GENRES , TAGS
 
 * __상황별 들었 던, 음악 리스트(User_Situation_Music)__  
-USERID , MUSIC
+USERID , TIME , MUSIC
 
