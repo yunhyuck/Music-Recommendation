@@ -50,11 +50,14 @@ The songs. Note that data is in unicode.
 
 ## Data Schema
 * __사용자 상황 정보(User_Situation)__  
-USERID , DAY , EVENT , LOCATION , WEATHER , TIME , _MUSIC_
+USERID , DAY , EVENT , LOCATION , WEATHER , TIME (_MUSIC_)
   
 * __음악정보 DB(Melon_Top100_DB)__  
 FILENAME , ALBUM , ARTIST , GENRE , TITLE , YEAR , TAG
   
 * __사용자 정보(User)__  
 USERID , AGE , SEX , SINGERS , GENRES , TAGS
+
+* __상황별 들었 던, 음악 리스트(User_Situation_Music)--
+USERID , MUSIC
 
