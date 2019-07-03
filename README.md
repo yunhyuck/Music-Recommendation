@@ -50,5 +50,5 @@ The songs. Note that data is in unicode.
 
 사용자 상황 정보(User_Situation)  
 | UserID | Day | Event | Location | Weather | Time | Music |
-
+| :----- | :-- | :---- | :------- | :------ | :--- | :---- |
 
