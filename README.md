@@ -47,9 +47,11 @@ The songs. Note that data is in unicode.
 <p align="center"> 
 <img src="https://github.com/yunhyuck/Music-Recommendation/blob/master/Picture/flow%20chart.png">
 </p>
+* Update Flow Chart(2019-07-03)
+<p align="center"> 
+<img src="https://github.com/yunhyuck/Music-Recommendation/blob/master/Picture/flow%20chart%20update.png">
+</p>
 
-상황별 들었던 노래 리스트 : 가사에서 맥락 분석 -> TAG 추출 
-                                              사용자별 Play List(상황별 들었던 노래 리스트) TAG들과 유사도 비교 -> The Best Song 
 ## Data Schema
 * __사용자 상황 정보(User_Situation)__  
 USERID , DAY , EVENT , LOCATION , WEATHER , TIME (_MUSIC_)
