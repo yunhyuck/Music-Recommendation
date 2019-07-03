@@ -48,3 +48,7 @@ The songs. Note that data is in unicode.
 <img src="https://github.com/yunhyuck/Music-Recommendation/blob/master/Picture/flow%20chart.png">
 </p>
 
+사용자 상황 정보(User_Situation)
+|UserID|Day|Event|Location|Weather|Time|Music|
+
+
